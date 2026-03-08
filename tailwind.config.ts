@@ -5,15 +5,15 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        primary: '#EA580C',
-        secondary: '#0EA5E9',
+        primary: '#059669',
+        secondary: '#6B7280',
       },
       borderRadius: {
         custom: '12px',
       },
     },
   },
-  
+  darkMode: 'class',
   plugins: [],
 }
 export default config
